@@ -4,8 +4,8 @@ Create a list of workouts that a user can complete, edit, or delete.
 
 For example:
 
-Workout | Category | Quantity | Completed
-Squat | Leg | 10 | []
+Workout | Category | Quantity | Completed <br />
+Squat | Leg | 10 | [] <br />
 Push-ups | Chest | 20 | [X]
 
 Back-end
