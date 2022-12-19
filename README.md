@@ -6,7 +6,7 @@ For example:
 
 Workout | Category | Quantity | Completed\
 Squat | Leg | 10 | [] \
-Push-ups | Chest | 20 | [X]\
+Push-ups | Chest | 20 | [X]
 
 Back-end
 1. How would you model the database (users, workouts, workout list)?
